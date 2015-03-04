@@ -767,20 +767,20 @@ ul.external li a:hover {
     background-repeat: no-repeat;
     bottom: 90px;
     height: 33px;
-    left: -35px;
+    left: -50px;
     position: absolute;
     width: 45px;
 }
 
 .testimonial-item > div:after {
     background-image: url("../img/icons/quotes.png");
-    background-position: -58px 0;
-    background-repeat: no-repeat;
-    bottom: -50px;
-    height: 33px;
-    position: absolute;
-    right: 0;
-    width: 45px;
+	background-position:-58px 0;
+	background-repeat: no-repeat;
+	bottom: -30px;
+	height: 33px;
+	position: absolute;
+	right: -60px;
+	width: 45px;
 }
 
 .testimonial-item > div > span {
