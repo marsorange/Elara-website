@@ -215,7 +215,7 @@ margin-left:-80px;
 
 /*Battery*/
 .loder-box {
-  background-color: rgba(0, 0, 0, 0.02);
+  
   border-radius: 1px;
   height: 100px;
   left: 50%;
@@ -294,6 +294,7 @@ h1.navbar-brand {
     font-weight: 700;
     margin: 0;
     text-transform: uppercase;
+    padding: 0;
 }
 
 .navbar-inverse .navbar-nav > li > a {
